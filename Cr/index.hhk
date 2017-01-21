@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#ac92ecb903ae7684a3d004384162a20c8"><param name="Name" value="a"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa0e5f1b3311cd866198d3cf697cae23e8"><param name="Name" value="A"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#a993c57c2ca1e1644a0703fb239168e33"><param name="Name" value="b"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa435775feca300e2966d61aca73596485"><param name="Name" value="B"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ad692b1c525ebc284c1343c412b2188dd"><param name="Name" value="BeginDraw"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_bitmap_8cpp.html"><param name="Name" value="Bitmap.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_bitmap_8cpp.html#a769d70f74e75f5cd66deda73b6517270"><param name="Name" value="HGHT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_bitmap_8cpp.html#aca3095bdab1c0e287efbdd61ce0f029c"><param name="Name" value="WDTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_bitmap_8hpp.html#a91c5f2ca6e99673f700cb384187e170f"><param name="Name" value="Bitmap.hpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a91c5f2ca6e99673f700cb384187e170f"><param name="Name" value="BitmapHandle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a91c5f2ca6e99673f700cb384187e170f"><param name="Name" value="Bitmap.hpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a91c5f2ca6e99673f700cb384187e170f"><param name="Name" value="Cr"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ad4fad4ad57e32b0d7b2b4ff93b71c5ca"><param name="Name" value="Black"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ad4fad4ad57e32b0d7b2b4ff93b71c5ca"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ad4fad4ad57e32b0d7b2b4ff93b71c5ca"><param name="Name" value="Utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ae4d75801ffc42302fbb1521e0fc0ae36"><param name="Name" value="Blue"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ae4d75801ffc42302fbb1521e0fc0ae36"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ae4d75801ffc42302fbb1521e0fc0ae36"><param name="Name" value="Utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa689d895576b3d3a6d6dd2917fa1c257d"><param name="Name" value="C"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a7a4416b86047c6a55e3167d88ff41b27"><param name="Name" value="Clear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a27374103180e52bda8606acb5bf52068"><param name="Name" value="Close"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a8a12dafd6d5e443839c15a904b39ac11"><param name="Name" value="Coord"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html"><param name="Name" value="Core.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a8a12dafd6d5e443839c15a904b39ac11"><param name="Name" value="Coord"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#addcff46553dcb0ebaef1aef403cdda0b"><param name="Name" value="SafeRelease"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a6a029e8bffd194e4e79d6da175bbfbc9"><param name="Name" value="Uint16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a9e0a53eba43e8931eeea6f7e009723ca"><param name="Name" value="Uint32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a9fbd94c4b48a18b948fe749791488f41"><param name="Name" value="Uint8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html"><param name="Name" value="Cr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_bitmap.html"><param name="Name" value="Cr::Bitmap"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_bitmap.html#ac159c7373b46e61cc843b2ecfe11d1c2"><param name="Name" value="LoadFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_bitmap.html#a2b7e297d6ac84d2d11672f88c2171824"><param name="Name" value="m_bmp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html"><param name="Name" value="Cr::Color"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#ac92ecb903ae7684a3d004384162a20c8"><param name="Name" value="a"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#a993c57c2ca1e1644a0703fb239168e33"><param name="Name" value="b"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#a9dd4adb5681244c20f55ea373ab33451"><param name="Name" value="g"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#a4d66a1ee408402e4072f77d5676d1601"><param name="Name" value="r"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html"><param name="Name" value="Cr::Keyboard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa0e5f1b3311cd866198d3cf697cae23e8"><param name="Name" value="A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa435775feca300e2966d61aca73596485"><param name="Name" value="B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa689d895576b3d3a6d6dd2917fa1c257d"><param name="Name" value="C"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daac80ae519c540ce9d652aacbc716a1842"><param name="Name" value="D"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa84af24205e0b453b8a3e990aa7c344da"><param name="Name" value="E"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa8fb194c4c7077d80564af2f9d617687c"><param name="Name" value="Escape"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa91352d7a54162e2b15bceed9029f06e9"><param name="Name" value="F"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae60bbc75393e302bda658bc6e5eccefd"><param name="Name" value="G"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#ab9d36cf3a5ed88bb4350a900edf112c6"><param name="Name" value="GetKey"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa5203d239f30a12949ef62ac9e35ec6cc"><param name="Name" value="H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa9bcc63f1e954c4da08482c4dd82f2012"><param name="Name" value="I"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa1111f1a7565386a83a9750068fed49ad"><param name="Name" value="J"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa38985f2959d4e36bef4d8ea6b7742287"><param name="Name" value="K"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa3502d8bca5d54cb089e9252fdc6f2c26"><param name="Name" value="L"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa465d729d9c6cae7b082d8901d211b454"><param name="Name" value="M"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa592b3da45d8243cdfa291c6ba3384e65"><param name="Name" value="N"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daaf941471406df1c5732c46c805b6ae404"><param name="Name" value="N0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa3f862a53cf9325e9e63b27bb948e1695"><param name="Name" value="N1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae140070135275c9a6c94ca1167098995"><param name="Name" value="N2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa9c0a4cc7e65f8376515f0797516c4782"><param name="Name" value="N3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daadf8a2bd8ea8028d81f04b6e498f6a061"><param name="Name" value="N4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa12fa600fe8eb4a67e39ecc73f9c6a30a"><param name="Name" value="N5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa0bc88b0aec028b46ba9497192674dfa7"><param name="Name" value="N6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa43776b075fb4975e116de44522f6ceb8"><param name="Name" value="N7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae52193af633e2859e4db0d9df567c6c5"><param name="Name" value="N8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daac212107ed54b7b049132871e929ac182"><param name="Name" value="N9"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa76ee6dd50afb8faa397a619b2e47b9c4"><param name="Name" value="O"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa6580f998aa2ae7247dbe751e2362d26d"><param name="Name" value="P"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa98d0562840e408dad00ebebe810b1a12"><param name="Name" value="Q"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa5b7b007db785b43727383abfa27d1372"><param name="Name" value="R"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa0359f4539b0fe0420b844693ed3c2c5b"><param name="Name" value="S"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daaa7f4a9b8e3f0c6021958039c19ff0859"><param name="Name" value="T"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa3926b8b14fbe08b449ff07fa5b8536a5"><param name="Name" value="U"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae9313ea71e3d6421ba093f662a7bbc90"><param name="Name" value="V"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa2d6b1f5a912adecdbc21be9cd730c695"><param name="Name" value="W"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daaebbf1e862b47aebd321846f5f04bf784"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa574566f48e8036499d7ca188caec2365"><param name="Name" value="Y"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa2674f57a17ca17e77c041061f6c39259"><param name="Name" value="Z"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html"><param name="Name" value="Cr::Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html#ae52bb1526e360be8817c572fd54919b6"><param name="Name" value="x"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html#a907a86ae405c2aa619fe8b921a4383df"><param name="Name" value="y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html"><param name="Name" value="Cr::RectangleShape"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#ac9779227854851a0e8546da6e47a1662"><param name="Name" value="RectangleShape"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#a53676dfca44e8f6978b0c2ba699ee083"><param name="Name" value="SetColor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#af2dc0c5d1840ea874e4bdf8cc1438f59"><param name="Name" value="SetPosition"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html"><param name="Name" value="Cr::Renderer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ad692b1c525ebc284c1343c412b2188dd"><param name="Name" value="BeginDraw"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a7a4416b86047c6a55e3167d88ff41b27"><param name="Name" value="Clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#af913fc1d8c0c016dd9e43ccff2376f14"><param name="Name" value="Draw"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#addc99b4422515b7b5f1530e6ab0fed39"><param name="Name" value="DrawBitmap"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a7c3bcee60142315f951d9703bdc76330"><param name="Name" value="DrawEllipsis"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ac8191fec0436f5874cc2037ef5da8206"><param name="Name" value="DrawLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a33fedef68b67fa1cd54791b127dfc5c0"><param name="Name" value="DrawRect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a3a2ef337c495c06e2b19530fd44b6376"><param name="Name" value="EndDraw"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a6324bae69cc5702a374f9c0bd4ae5540"><param name="Name" value="Init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ad15b546af3b67767fb8c9569eccea645"><param name="Name" value="New"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#af9d7c6ebab17a773991e64fbeccca7a3"><param name="Name" value="Renderer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ae38cdf1109b59d5f954ccfc7ef6eacec"><param name="Name" value="~Renderer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html"><param name="Name" value="Cr::Shape"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ae08ccf777e22a9de32cb30b0c661db03"><param name="Name" value="GetBrush"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#afba44f0915c0333fa28019d24eff15c6"><param name="Name" value="GetColor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a98700c8d9e768ebebf141fcbe19de241"><param name="Name" value="GetGeometry"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ad8cf0a914971f5c7ae1cdbe6c2251b17"><param name="Name" value="GetPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a9dbce2a40ff26ec604465bfb122ee57b"><param name="Name" value="m_brush"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a111a43927bd19bdc1dff7c094e867e18"><param name="Name" value="m_color"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a4463c8c6bc05337e93e5c5bde8896c73"><param name="Name" value="m_factory"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a63116e6605777fc310ad6097727c4bfd"><param name="Name" value="m_geometry"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a9c5b807d0f25bac6845fa6064405a1a6"><param name="Name" value="m_position"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a39e852ed32f3ee67e2e9dd9d39a46203"><param name="Name" value="m_renderTarget"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ae17f5eddfbc68e77ae3dcadb8babadde"><param name="Name" value="m_size"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a784be1bbb861a057070de6b7319ceb91"><param name="Name" value="SetColor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ae70c1be84782e6412e8a81fc452023c3"><param name="Name" value="SetPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#add34fafeca40465ef775c8ed4bf94060"><param name="Name" value="Shape"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a935afc9e576015f967d90de56977167d"><param name="Name" value="~Shape"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_vector2.html"><param name="Name" value="Cr::Vector2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_vector2.html#a80c5d72b60649aa06aab2712860c6dee"><param name="Name" value="x"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_vector2.html#a342df32160cc76261aeb354f41a7a3d7"><param name="Name" value="y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html"><param name="Name" value="Cr::Window"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a27374103180e52bda8606acb5bf52068"><param name="Name" value="Close"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a52d473a476afa9d0dcaa9770712ad456"><param name="Name" value="Display"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a780fda978cfa872f5782aeb6ceefb4b9"><param name="Name" value="GetFactory"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a5ac1119cdddbb5824ed2e8fd1bc9e600"><param name="Name" value="GetHandle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a358bde578c0dc1f6fa9aff78a7483619"><param name="Name" value="GetMousePosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a7943538400b0a717206a6e4ff620cafb"><param name="Name" value="GetRenderTarget"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#aadeaccfc17e46890a48dbdc4235c9107"><param name="Name" value="OnLMouseButtonDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#ab2d98d4a1baa4cdcdc5356bda3745258"><param name="Name" value="OnMMouseButtonDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a8c0d7232c9bce2e2dc4a01a214e34d47"><param name="Name" value="OnRMouseButtonDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a46f0cf73409d32c10e0d968d227fe145"><param name="Name" value="Window"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a245d821e6016fa1f6970ccbbedd635f6"><param name="Name" value="~Window"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html"><param name="Name" value="Cr"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a91c5f2ca6e99673f700cb384187e170f"><param name="Name" value="BitmapHandle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ad4fad4ad57e32b0d7b2b4ff93b71c5ca"><param name="Name" value="Black"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#ae4d75801ffc42302fbb1521e0fc0ae36"><param name="Name" value="Blue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a8afcb05da2bb431a742c395360e851c9"><param name="Name" value="Green"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a54413ce46741e468f6a0e1abbba09802"><param name="Name" value="Red"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a2aabe3f891b18f38928d691b9087829e"><param name="Name" value="RendererHandle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a3864531e50fb3640de13089d5048d9e8"><param name="Name" value="s2ws"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a85a956167e45bcd9fb75c226c697a70d"><param name="Name" value="White"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daac80ae519c540ce9d652aacbc716a1842"><param name="Name" value="D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a52d473a476afa9d0dcaa9770712ad456"><param name="Name" value="Display"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#af913fc1d8c0c016dd9e43ccff2376f14"><param name="Name" value="Draw"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#addc99b4422515b7b5f1530e6ab0fed39"><param name="Name" value="DrawBitmap"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a7c3bcee60142315f951d9703bdc76330"><param name="Name" value="DrawEllipsis"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ac8191fec0436f5874cc2037ef5da8206"><param name="Name" value="DrawLine"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a33fedef68b67fa1cd54791b127dfc5c0"><param name="Name" value="DrawRect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa84af24205e0b453b8a3e990aa7c344da"><param name="Name" value="E"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a3a2ef337c495c06e2b19530fd44b6376"><param name="Name" value="EndDraw"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa8fb194c4c7077d80564af2f9d617687c"><param name="Name" value="Escape"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa91352d7a54162e2b15bceed9029f06e9"><param name="Name" value="F"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#a9dd4adb5681244c20f55ea373ab33451"><param name="Name" value="g"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae60bbc75393e302bda658bc6e5eccefd"><param name="Name" value="G"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ae08ccf777e22a9de32cb30b0c661db03"><param name="Name" value="GetBrush"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#afba44f0915c0333fa28019d24eff15c6"><param name="Name" value="GetColor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a780fda978cfa872f5782aeb6ceefb4b9"><param name="Name" value="GetFactory"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a98700c8d9e768ebebf141fcbe19de241"><param name="Name" value="GetGeometry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a5ac1119cdddbb5824ed2e8fd1bc9e600"><param name="Name" value="GetHandle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#ab9d36cf3a5ed88bb4350a900edf112c6"><param name="Name" value="GetKey"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a358bde578c0dc1f6fa9aff78a7483619"><param name="Name" value="GetMousePosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ad8cf0a914971f5c7ae1cdbe6c2251b17"><param name="Name" value="GetPosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a7943538400b0a717206a6e4ff620cafb"><param name="Name" value="GetRenderTarget"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a8afcb05da2bb431a742c395360e851c9"><param name="Name" value="Green"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a8afcb05da2bb431a742c395360e851c9"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a8afcb05da2bb431a742c395360e851c9"><param name="Name" value="Utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa5203d239f30a12949ef62ac9e35ec6cc"><param name="Name" value="H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_bitmap_8cpp.html#a769d70f74e75f5cd66deda73b6517270"><param name="Name" value="HGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa9bcc63f1e954c4da08482c4dd82f2012"><param name="Name" value="I"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#a6324bae69cc5702a374f9c0bd4ae5540"><param name="Name" value="Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa1111f1a7565386a83a9750068fed49ad"><param name="Name" value="J"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa38985f2959d4e36bef4d8ea6b7742287"><param name="Name" value="K"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa3502d8bca5d54cb089e9252fdc6f2c26"><param name="Name" value="L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_bitmap.html#ac159c7373b46e61cc843b2ecfe11d1c2"><param name="Name" value="LoadFromFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa465d729d9c6cae7b082d8901d211b454"><param name="Name" value="M"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_bitmap.html#a2b7e297d6ac84d2d11672f88c2171824"><param name="Name" value="m_bmp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a9dbce2a40ff26ec604465bfb122ee57b"><param name="Name" value="m_brush"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a111a43927bd19bdc1dff7c094e867e18"><param name="Name" value="m_color"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a4463c8c6bc05337e93e5c5bde8896c73"><param name="Name" value="m_factory"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a63116e6605777fc310ad6097727c4bfd"><param name="Name" value="m_geometry"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a9c5b807d0f25bac6845fa6064405a1a6"><param name="Name" value="m_position"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a39e852ed32f3ee67e2e9dd9d39a46203"><param name="Name" value="m_renderTarget"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ae17f5eddfbc68e77ae3dcadb8babadde"><param name="Name" value="m_size"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daaf941471406df1c5732c46c805b6ae404"><param name="Name" value="N0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa3f862a53cf9325e9e63b27bb948e1695"><param name="Name" value="N1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae140070135275c9a6c94ca1167098995"><param name="Name" value="N2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa9c0a4cc7e65f8376515f0797516c4782"><param name="Name" value="N3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daadf8a2bd8ea8028d81f04b6e498f6a061"><param name="Name" value="N4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa12fa600fe8eb4a67e39ecc73f9c6a30a"><param name="Name" value="N5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa0bc88b0aec028b46ba9497192674dfa7"><param name="Name" value="N6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa43776b075fb4975e116de44522f6ceb8"><param name="Name" value="N7"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae52193af633e2859e4db0d9df567c6c5"><param name="Name" value="N8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daac212107ed54b7b049132871e929ac182"><param name="Name" value="N9"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa592b3da45d8243cdfa291c6ba3384e65"><param name="Name" value="N"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ad15b546af3b67767fb8c9569eccea645"><param name="Name" value="New"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa76ee6dd50afb8faa397a619b2e47b9c4"><param name="Name" value="O"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#aadeaccfc17e46890a48dbdc4235c9107"><param name="Name" value="OnLMouseButtonDown"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#ab2d98d4a1baa4cdcdc5356bda3745258"><param name="Name" value="OnMMouseButtonDown"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a8c0d7232c9bce2e2dc4a01a214e34d47"><param name="Name" value="OnRMouseButtonDown"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa6580f998aa2ae7247dbe751e2362d26d"><param name="Name" value="P"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa98d0562840e408dad00ebebe810b1a12"><param name="Name" value="Q"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_color.html#a4d66a1ee408402e4072f77d5676d1601"><param name="Name" value="r"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa5b7b007db785b43727383abfa27d1372"><param name="Name" value="R"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#ac9779227854851a0e8546da6e47a1662"><param name="Name" value="RectangleShape"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a54413ce46741e468f6a0e1abbba09802"><param name="Name" value="Red"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a54413ce46741e468f6a0e1abbba09802"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a54413ce46741e468f6a0e1abbba09802"><param name="Name" value="Utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_renderer_8hpp.html#a2aabe3f891b18f38928d691b9087829e"><param name="Name" value="Renderer.hpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#af9d7c6ebab17a773991e64fbeccca7a3"><param name="Name" value="Renderer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a2aabe3f891b18f38928d691b9087829e"><param name="Name" value="RendererHandle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a2aabe3f891b18f38928d691b9087829e"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a2aabe3f891b18f38928d691b9087829e"><param name="Name" value="Renderer.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a3864531e50fb3640de13089d5048d9e8"><param name="Name" value="s2ws"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a3864531e50fb3640de13089d5048d9e8"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a3864531e50fb3640de13089d5048d9e8"><param name="Name" value="Utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa0359f4539b0fe0420b844693ed3c2c5b"><param name="Name" value="S"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#addcff46553dcb0ebaef1aef403cdda0b"><param name="Name" value="SafeRelease"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#a53676dfca44e8f6978b0c2ba699ee083"><param name="Name" value="SetColor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#a53676dfca44e8f6978b0c2ba699ee083"><param name="Name" value="Cr::RectangleShape"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a784be1bbb861a057070de6b7319ceb91"><param name="Name" value="Cr::Shape"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#af2dc0c5d1840ea874e4bdf8cc1438f59"><param name="Name" value="SetPosition"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_rectangle_shape.html#af2dc0c5d1840ea874e4bdf8cc1438f59"><param name="Name" value="Cr::RectangleShape"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#ae70c1be84782e6412e8a81fc452023c3"><param name="Name" value="Cr::Shape"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#add34fafeca40465ef775c8ed4bf94060"><param name="Name" value="Shape"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daaa7f4a9b8e3f0c6021958039c19ff0859"><param name="Name" value="T"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa3926b8b14fbe08b449ff07fa5b8536a5"><param name="Name" value="U"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a6a029e8bffd194e4e79d6da175bbfbc9"><param name="Name" value="Uint16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a9e0a53eba43e8931eeea6f7e009723ca"><param name="Name" value="Uint32"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_core_8hpp.html#a9fbd94c4b48a18b948fe749791488f41"><param name="Name" value="Uint8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html"><param name="Name" value="Utility.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html#ad4fad4ad57e32b0d7b2b4ff93b71c5ca"><param name="Name" value="Black"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html#ae4d75801ffc42302fbb1521e0fc0ae36"><param name="Name" value="Blue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html#a8afcb05da2bb431a742c395360e851c9"><param name="Name" value="Green"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html#a54413ce46741e468f6a0e1abbba09802"><param name="Name" value="Red"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html#a3864531e50fb3640de13089d5048d9e8"><param name="Name" value="s2ws"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utility_8hpp.html#a85a956167e45bcd9fb75c226c697a70d"><param name="Name" value="White"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daae9313ea71e3d6421ba093f662a7bbc90"><param name="Name" value="V"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa2d6b1f5a912adecdbc21be9cd730c695"><param name="Name" value="W"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_bitmap_8cpp.html#aca3095bdab1c0e287efbdd61ce0f029c"><param name="Name" value="WDTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a85a956167e45bcd9fb75c226c697a70d"><param name="Name" value="White"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a85a956167e45bcd9fb75c226c697a70d"><param name="Name" value="Cr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_cr.html#a85a956167e45bcd9fb75c226c697a70d"><param name="Name" value="Utility.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a46f0cf73409d32c10e0d968d227fe145"><param name="Name" value="Window"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daaebbf1e862b47aebd321846f5f04bf784"><param name="Name" value="X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html#ae52bb1526e360be8817c572fd54919b6"><param name="Name" value="x"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html#ae52bb1526e360be8817c572fd54919b6"><param name="Name" value="Cr::Point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_vector2.html#a80c5d72b60649aa06aab2712860c6dee"><param name="Name" value="Cr::Vector2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa574566f48e8036499d7ca188caec2365"><param name="Name" value="Y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html#a907a86ae405c2aa619fe8b921a4383df"><param name="Name" value="y"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_point.html#a907a86ae405c2aa619fe8b921a4383df"><param name="Name" value="Cr::Point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_cr_1_1_vector2.html#a342df32160cc76261aeb354f41a7a3d7"><param name="Name" value="Cr::Vector2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_keyboard.html#a6d4d996c9a1868f228497b6bf7c947daa2674f57a17ca17e77c041061f6c39259"><param name="Name" value="Z"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_renderer.html#ae38cdf1109b59d5f954ccfc7ef6eacec"><param name="Name" value="~Renderer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_shape.html#a935afc9e576015f967d90de56977167d"><param name="Name" value="~Shape"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_cr_1_1_window.html#a245d821e6016fa1f6970ccbbedd635f6"><param name="Name" value="~Window"></OBJECT>
+</UL>
+</BODY>
+</HTML>
